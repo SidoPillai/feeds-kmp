@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:/Users/sidd7789/feeds-kmp/iosApp/Feeds.xcodeproj">
+      location = "self:">
    </FileRef>
 </Workspace>
